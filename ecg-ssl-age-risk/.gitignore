@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Data
+Dataset/
+data/
+*.csv
+*.npy
+*.npz
+*.h5
+
+# Models
+*.pt
+*.pth
+checkpoints/
+runs/
+
+# Logs
+logs/

@@ -1,3 +1,6 @@
+
+
+
 ## 🏗️ Technical Architecture
 
 The framework is built on **PyTorch Lightning**, utilizing a modular shared-encoder architecture for multi-task optimization and self-supervised pre-training.
